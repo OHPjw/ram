@@ -1,1 +1,1 @@
-fix predict with class filter
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
